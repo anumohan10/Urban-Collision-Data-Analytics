@@ -58,7 +58,7 @@ To uncover critical patterns in urban traffic accidents, identify high-risk area
 - Fact tables: `FACT_ACCIDENTS`, `FACT_VEHICLE`, `FACT_CONTRIBUTION`
 - Modeled in ER Studio to ensure consistency and granularity
 
-![Dimension Model](./images/dimensional_model.png)
+![Dimensional Model](./images/dimensional_model.png)
 
 ## 🚀 Outcomes
 
